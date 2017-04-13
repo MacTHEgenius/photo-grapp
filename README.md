@@ -5,6 +5,10 @@
     '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
     ----------------------------------------------------------------- 
+    
+    
+# SET ENV VARIABLE => SENDGRID_USERNAME & SENDGRID_PASSWORD
+# CHANGE config.action_mailer.default_url_options (in config/environments/development.rb) to your local env
 
 
 Welcome to your Rails project on Cloud9 IDE!
